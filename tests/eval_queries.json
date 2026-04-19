@@ -1,0 +1,50 @@
+[
+  {
+    "query": "sakin yerel kahvaltı",
+    "expected": ["kuzguncuk-bostani", "bebek-kahvesi", "coffee-department", "norm-coffee", "kadinlar-pazari"]
+  },
+  {
+    "query": "Boğaz manzaralı romantik akşam yemeği",
+    "expected": ["mangerie-bebek", "mikla-restoran", "antigoni-buyukada", "ismet-baba", "bebek-kahvesi"]
+  },
+  {
+    "query": "elektronik müzik gece kulübü dans",
+    "expected": ["indigo", "under", "sortie"]
+  },
+  {
+    "query": "koşu parkuru deniz kenarı",
+    "expected": ["bogazici-kosu-parkuru", "moda-kosu", "kartal-sahili-kosu", "moda-sahili"]
+  },
+  {
+    "query": "çağdaş sanat müze kültür",
+    "expected": ["istanbul-modern", "pera-muzesi", "belgesel-sinema"]
+  },
+  {
+    "query": "rakı balık meyhane fasıl",
+    "expected": ["kasimpasa-demirspor", "nevizade", "refik-meyhane", "ismet-baba", "boncuk-meyhane"]
+  },
+  {
+    "query": "specialty coffee çalışmak laptop",
+    "expected": ["kronotrop-coffee", "norm-coffee", "coffee-department"]
+  },
+  {
+    "query": "doğa yürüyüş orman şehirden kaçış",
+    "expected": ["belgrad-orman", "polonezkoy", "sariyer-koruyolu", "emirgan-korusu"]
+  },
+  {
+    "query": "canlı müzik indie alternatif konser",
+    "expected": ["minimüzikhol", "salon-iksv", "dogzstar", "karga-bar"]
+  },
+  {
+    "query": "tarihi Osmanlı kültür gezi",
+    "expected": ["arkeoloji-muzesi", "pandeli", "rumeli-hisari", "pierre-loti-tepesi", "galata-kulesi"]
+  },
+  {
+    "query": "ucuz yerel otantik yemek",
+    "expected": ["ciya-sofrasi", "hayvore", "borsam-tasmeken", "kadinlar-pazari", "karga-bar"]
+  },
+  {
+    "query": "gün batımı manzara fotoğraf",
+    "expected": ["rumeli-hisari", "pierre-loti-tepesi", "camlica-camii-manzara", "ortakoy-sahili", "moda-sahili"]
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "id": "kuzguncuk-bostani",
+    "name": "Kuzguncuk Bostanı",
+    "category": "park",
+    "neighborhood": "Kuzguncuk",
+    "price_level": 1,
+    "tags": ["sakin", "yerel", "açık hava", "aile dostu", "organik"],
+    "description": "Boğaz kıyısında küçük bir topluluk bahçesi. Hafta sonları üretici pazarı kuruluyor, turistten uzak, mahalle halkının buluşma noktası. Sabah kahvaltısı için ideal.",
+    "coordinates": {"lat": 41.0412, "lng": 29.0502}
+  },
+  {
+    "id": "karakoy-gulluoglu",
+    "name": "Karaköy Güllüoğlu",
+    "category": "kafe",
+    "neighborhood": "Karaköy",
+    "price_level": 1,
+    "tags": ["tarihi", "baklava", "kahvaltı", "yerel", "kalabalık"],
+    "description": "İstanbul'un en ünlü baklava ustalarından biri. Sabah erken saatlerde taze baklava ve Türk kahvesi için uğranacak yer. Turistik ama kalite gerçek, kalabalık olabilir.",
+    "coordinates": {"lat": 41.0235, "lng": 28.9742}
+  },
+  {
+    "id": "bebek-kahvesi",
+    "name": "Bebek Kahvesi",
+    "category": "kafe",
+    "neighborhood": "Bebek",
+    "price_level": 2,
+    "tags": ["Boğaz manzarası", "sakin", "romantik", "kahve", "tarihî bina"],
+    "description": "1950'lerden bu yana Bebek sahilinde duran ikonik kafe. Boğaz manzarasıyla kahve içmek için klasik durak. Yoğun saatlerde yer bulmak güç, sabah erken sakindir.",
+    "coordinates": {"lat": 41.0773, "lng": 29.0425}
+  },
+  {
+    "id": "cihangir-cafe-de-paris",
+    "name": "Cihangir Café de Paris",
+    "category": "kafe",
+    "neighborhood": "Cihangir",
+    "price_level": 2,
+    "tags": ["sanatsal", "bohemyen", "kitap", "sakin", "entelektüel"],
+    "description": "Cihangir'in dar sokaklarında küçük bir Fransız tarzı kafe. Ressam ve yazar müdavimi, duvarlar sanat eserleriyle kaplı. Laptop açıp saatlerce oturulabilir.",
+    "coordinates": {"lat": 41.0328, "lng": 28.9841}
+  },
+  {
+    "id": "mangerie-bebek",
+    "name": "Mangerie",
+    "category": "restoran",
+    "neighborhood": "Bebek",
+    "price_level": 3,
+    "tags": ["Boğaz manzarası", "brunch", "romantik", "özel gün", "modern"],
+    "description": "Bebek sahilinde cam cepheli şık bir restoran. Hafta sonu brunchu İstanbul'un en iyileri arasında gösteriliyor. Rezervasyon şart, fiyatlar yüksek ama manzara buna değer.",
+    "coordinates": {"lat": 41.0768, "lng": 29.0421}
+  },
+  {
+    "id": "ciya-sofrasi",
+    "name": "Çiya Sofrası",
+    "category": "restoran",
+    "neighborhood": "Kadıköy",
+    "price_level": 2,
+    "tags": ["Anadolu mutfağı", "yerel", "otantik", "kalabalık", "öğle yemeği"],
+    "description": "Kadıköy çarşısında Anadolu'nun unutulmuş yemeklerini sunan efsane lokanta. Her gün farklı yöresel yemekler, tarhanadan tirit çeşitlerine kadar. Dünya genelinde tanınan bir İstanbul kurumu.",
+    "coordinates": {"lat": 40.9904, "lng": 29.0292}
+  },
+  {
+    "id": "mikla-restoran",
+    "name": "Mikla",
+    "category": "restoran",
+    "neighborhood": "Beyoğlu",
+    "price_level": 4,
+    "tags": ["İstanbul manzarası", "fine dining", "modern Türk", "romantik", "özel gün"],
+    "description": "Marmara Hotel'in tepesinde şef Mehmet Gürs'ün modern Türk-İskandinav mutfağı. Panoramik İstanbul manzarasıyla eşsiz bir deneyim. Dünya gastronomi listelerinde sürekli yer alıyor.",
+    "coordinates": {"lat": 41.0341, "lng": 28.9775}
+  },
+  {
+    "id": "borsam-tasmeken",
+    "name": "Borsam Taşmeken",
+    "category": "restoran",
+    "neighborhood": "Beyoğlu",
+    "price_level": 2,
+    "tags": ["pide", "fırın", "yerel", "kahvaltı", "otantik"],
+    "description": "Beyoğlu'nda taş fırında pide pişiren küçük bir usta lokantası. Karadeniz usulü kuşbaşılı pide uzmanlığı. Kuyruğa girmeye değer, turistik değil tamamen yerel.",
+    "coordinates": {"lat": 41.0312, "lng": 28.9778}
+  },
+  {
+    "id": "antigoni-buyukada",
+    "name": "Antigoni Restaurant",
+    "category": "restoran",
+    "neighborhood": "Büyükada",
+    "price_level": 3,
+    "tags": ["ada", "deniz manzarası", "balık", "sakin", "hafta sonu kaçamağı"],
+    "description": "Büyükada'da Rum mimarisiyle çevrili, denize bakan balık restoranı. Arabasız adada bisikletle gelinir. Akşam güneşi denize batarken rakı balık için biçilmiş kaftan.",
+    "coordinates": {"lat": 40.8753, "lng": 29.1263}
+  },
+  {
+    "id": "hayvore",
+    "name": "Hayvore",
+    "category": "restoran",
+    "neighborhood": "Cihangir",
+    "price_level": 2,
+    "tags": ["Karadeniz mutfağı", "yerel", "otantik", "hamsi", "ev yemeği"],
+    "description": "Cihangir'de Karadeniz mutfağının en saf halini sunan küçük lokanta. Hamsi, mısır ekmeği, lahana sarması — sezonuna göre. Göçmen Karadenizlilerin ev hasretini gideren mekan.",
+    "coordinates": {"lat": 41.0331, "lng": 28.9845}
+  },
+  {
+    "id": "istanbul-modern",
+    "name": "İstanbul Modern",
+    "category": "müze",
+    "neighborhood": "Karaköy",
+    "price_level": 2,
+    "tags": ["çağdaş sanat", "Boğaz manzarası", "kültürel", "iç mekan", "sanat"],
+    "description": "Karaköy rıhtımında Türkiye'nin en önemli çağdaş sanat müzesi. Kalıcı koleksiyonun yanı sıra uluslararası geçici sergiler düzenliyor. Müze kafesi Boğaz manzarasıyla ayrıca güzel.",
+    "coordinates": {"lat": 41.0272, "lng": 28.9822}
+  },
+  {
+    "id": "pera-muzesi",
+    "name": "Pera Müzesi",
+    "category": "müze",
+    "neighborhood": "Beyoğlu",
+    "price_level": 2,
+    "tags": ["Osmanlı sanatı", "kültürel", "İstiklal yakını", "iç mekan", "tarihî"],
+    "description": "Beyoğlu'nda Osmanlı dönemi sanatından çağdaşa uzanan koleksiyonuyla özel müze. Ünlü eseri: İnce Memed ve Boğaziçi manzaraları. Saatlerce geçirilebilecek sessiz bir kültür adası.",
+    "coordinates": {"lat": 41.0340, "lng": 28.9762}
+  },
+  {
+    "id": "rahmi-koc-muzesi",
+    "name": "Rahmi M. Koç Müzesi",
+    "category": "müze",
+    "neighborhood": "Hasköy",
+    "price_level": 2,
+    "tags": ["endüstri tarihi", "aile dostu", "gemi", "lokomotif", "interaktif"],
+    "description": "Haliç kıyısında eski bir tersanede kurulmuş endüstriyel tarih müzesi. Gerçek gemi, lokomotif ve uçakların arasında gezmek mümkün. Çocuklar ve meraklılar için harika.",
+    "coordinates": {"lat": 41.0471, "lng": 28.9451}
+  },
+  {
+    "id": "arkeoloji-muzesi",
+    "name": "İstanbul Arkeoloji Müzeleri",
+    "category": "müze",
+    "neighborhood": "Sultanahmet",
+    "price_level": 2,
+    "tags": ["antik", "tarih", "kültürel", "sessiz", "akademik"],
+    "description": "Osmanlı sarayının bahçesinde tarihi kültür gezisi için üç ayrı müzeden oluşan kompleks. Osmanlı ve antik dönem eserlerinden Truva altınlarına uzanan koleksiyon. Tarihi İstanbul'u anlamak için en önemli adres.",
+    "coordinates": {"lat": 41.0122, "lng": 28.9831}
+  },
+  {
+    "id": "belgesel-sinema",
+    "name": "Documentarist",
+    "category": "müze",
+    "neighborhood": "Beyoğlu",
+    "price_level": 1,
+    "tags": ["belgesel", "sinema", "kültürel", "alternatif", "entelektüel"],
+    "description": "Beyoğlu'nda belgesel sinema odaklı küçük bir kültür merkezi. Dünya belgesellerini Türkçe altyazıyla gösteriyor, ayrıca sinema atölyeleri düzenliyor. Sessiz sakin alternatif bir kültür durağı.",
+    "coordinates": {"lat": 41.0338, "lng": 28.9769}
+  },
+  {
+    "id": "kronotrop-coffee",
+    "name": "Kronotrop Coffee Bar",
+    "category": "kafe",
+    "neighborhood": "Beyoğlu",
+    "price_level": 2,
+    "tags": ["specialty coffee", "sessiz", "çalışma", "single origin", "barista"],
+    "description": "Türkiye'de specialty coffee akımının öncülerinden. Single origin kahvelerini pour-over veya espresso olarak sunan teknik bir mekan. Laptop ile çalışmak için ideal, gürültüsüz.",
+    "coordinates": {"lat": 41.0335, "lng": 28.9782}
+  },
+  {
+    "id": "coffee-department",
+    "name": "Coffee Department",
+    "category": "kafe",
+    "neighborhood": "Nişantaşı",
+    "price_level": 2,
+    "tags": ["specialty coffee", "modern", "brunch", "sakin", "tasarım"],
+    "description": "Nişantaşı'nda minimalist tasarımlı specialty coffee mekanı. Kahvesi kadar küçük menüsü de özenli — avokado tostu ve granola. Öğleden önce sakin, öğleden sonra dolup taşıyor.",
+    "coordinates": {"lat": 41.0489, "lng": 28.9934}
+  },
+  {
+    "id": "norm-coffee",
+    "name": "Norm Coffee",
+    "category": "kafe",
+    "neighborhood": "Kadıköy",
+    "price_level": 2,
+    "tags": ["specialty coffee", "Anadolu yakası", "sakin", "çalışma", "doğal ışık"],
+    "description": "Kadıköy'ün specialty coffee noktası. Büyük camları ve doğal ışığıyla çalışmak için biçilmiş mekan. Anadolu yakasında oturanlara Boğaz'ı geçmeden kaliteli kahve.",
+    "coordinates": {"lat": 40.9906, "lng": 29.0289}
+  },
+  {
+    "id": "moda-sahili",
+    "name": "Moda Sahili",
+    "category": "park",
+    "neighborhood": "Moda",
+    "price_level": 1,
+    "tags": ["yürüyüş", "koşu", "deniz kenarı", "açık hava", "gün batımı"],
+    "description": "Kadıköy'ün Moda semtinde sahil boyunca uzanan yürüyüş parkuru. Sabah koşucuları ve akşam yürüyüşçüleriyle hareketli. Marmara manzarasında günbatımı izlemek için en iyi noktalardan biri.",
+    "coordinates": {"lat": 40.9843, "lng": 29.0246}
+  },
+  {
+    "id": "belgrad-orman",
+    "name": "Belgrad Ormanı",
+    "category": "park",
+    "neighborhood": "Sarıyer",
+    "price_level": 1,
+    "tags": ["orman", "koşu", "bisiklet", "doğa", "hafta sonu"],
+    "description": "İstanbul'un kuzeyinde şehrin ciğerleri sayılan devasa orman. Koşu parkurları, bisiklet yolları ve piknik alanlarıyla. Şehrin gürültüsünden kaçmak için 45 dakikalık mesafe.",
+    "coordinates": {"lat": 41.1782, "lng": 28.9642}
+  },
+  {
+    "id": "emirgan-korusu",
+    "name": "Emirgan Korusu",
+    "category": "park",
+    "neighborhood": "Emirgan",
+    "price_level": 1,
+    "tags": ["lale", "Boğaz manzarası", "piknik", "açık hava", "tarihi"],
+    "description": "Boğaz'a bakan tarihi Osmanlı korusu. Nisan'da lale festivaliyle ünlü ama yılın her mevsiminde güzel. İçinde üç tarihi köşk ve çay bahçeleri var.",
+    "coordinates": {"lat": 41.1027, "lng": 29.0531}
+  },
+  {
+    "id": "yildiz-parki",
+    "name": "Yıldız Parkı",
+    "category": "park",
+    "neighborhood": "Beşiktaş",
+    "price_level": 1,
+    "tags": ["Boğaz manzarası", "sakin", "tarihi", "yürüyüş", "hafta içi sakin"],
+    "description": "Osmanlı saray bahçesinden dönüştürülmüş şehir parkı. Beşiktaş'ın hemen arkasında ama çoğu İstanbullu bilmez. Hafta içi neredeyse boş, Boğaz manzaralı banklar.",
+    "coordinates": {"lat": 41.0502, "lng": 29.0103}
+  },
+  {
+    "id": "gezi-parki",
+    "name": "Gezi Parkı",
+    "category": "park",
+    "neighborhood": "Beyoğlu",
+    "price_level": 1,
+    "tags": ["merkezi", "açık hava", "tarihi", "manzara", "sosyal"],
+    "description": "Taksim Meydanı'na bitişik İstanbul'un kalbi. Tarihi ağaçlarıyla sığınak gibi bir alan. Boğaz manzarasına açılan köşesi gün batımında büyüleyici.",
+    "coordinates": {"lat": 41.0389, "lng": 28.9886}
+  },
+  {
+    "id": "adalar-bisiklet",
+    "name": "Büyükada Bisiklet Turu",
+    "category": "park",
+    "neighborhood": "Büyükada",
+    "price_level": 1,
+    "tags": ["ada", "bisiklet", "arabasız", "doğa", "hafta sonu kaçamağı"],
+    "description": "Prens Adaları'nın en büyüğünde araç yok, at arabası ve bisiklet var. Çam ormanlarından geçen patikalar, Rum manastırı ve deniz manzaraları. İstanbul'u unutturan bir kaçış.",
+    "coordinates": {"lat": 40.8742, "lng": 29.1275}
+  },
+  {
+    "id": "polonezkoy",
+    "name": "Polonezköy Doğal Yaşam Parkı",
+    "category": "park",
+    "neighborhood": "Polonezköy",
+    "price_level": 1,
+    "tags": ["orman", "doğa", "sakin", "hafta sonu", "şehirden kaçış"],
+    "description": "Anadolu yakasında Polonezköy'deki meşe ormanları arasında yürüyüş. 19. yüzyılda kurulan Polonyalı köyünün mirasıyla ilginç bir kültürel doku. İstanbul'a 40 dakika ama bambaşka bir dünya.",
+    "coordinates": {"lat": 41.1285, "lng": 29.2304}
+  },
+  {
+    "id": "360istanbul",
+    "name": "360 İstanbul",
+    "category": "bar",
+    "neighborhood": "Beyoğlu",
+    "price_level": 3,
+    "tags": ["çatı bar", "panoramik manzara", "kokteyl", "gece hayatı", "romantik"],
+    "description": "İstiklal üzerindeki binanın çatısında 360 derece İstanbul manzarasıyla kokteyl bar. Gün batımında altın rengi Boğaz ve ardından neon ışıklı gece. Rezervasyon öneriliyor.",
+    "coordinates": {"lat": 41.0338, "lng": 28.9768}
+  },
+  {
+    "id": "minimüzikhol",
+    "name": "Minimüzikhol",
+    "category": "bar",
+    "neighborhood": "Beyoğlu",
+    "price_level": 2,
+    "tags": ["canlı müzik", "indie", "alternatif", "gece hayatı", "sanatsal"],
+    "description": "Beyoğlu'nun bodrum katında küçük ama efsane bir canlı müzik mekanı. Indie, jazz ve deneysel müzikle akşamlar. Şehrin müzisyenleri burada buluşur.",
+    "coordinates": {"lat": 41.0319, "lng": 28.9756}
+  },
+  {
+    "id": "salon-iksv",
+    "name": "Salon İKSV",
+    "category": "bar",
+    "neighborhood": "Beyoğlu",
+    "price_level": 2,
+    "tags": ["canlı müzik", "kültürel", "jazz", "konser", "prestijli"],
+    "description": "İstanbul Kültür Sanat Vakfı'nın konser salonu. Akustik tasarımıyla şehrin en iyi ses deneyimini sunuyor. Jazz'dan elektronik müziğe geniş program.",
+    "coordinates": {"lat": 41.0338, "lng": 28.9753}
+  },
+  {
+    "id": "kloster-brewery",
+    "name": "Kloster Brewery",
+    "category": "bar",
+    "neighborhood": "Kadıköy",
+    "price_level": 2,
+    "tags": ["craft beer", "Anadolu yakası", "rahat", "arkadaş ortamı", "gürültülü"],
+    "description": "Kadıköy'de İstanbul'un ilk craft bira üreticilerinden. Tank başında üretilen biralar doğrudan bardağa. Akşam saatlerinde kalabalık ve gürültülü ama samimi bir atmosfer.",
+    "coordinates": {"lat": 40.9898, "lng": 29.0287}
+  },
+  {
+    "id": "peyote",
+    "name": "Peyote",
+    "category": "bar",
+    "neighborhood": "Karaköy",
+    "price_level": 2,
+    "tags": ["Latin müzik", "dans", "kokteyl", "gece hayatı", "canlı"],
+    "description": "Karaköy'de Latin ritimleriyle hayat bulan kokteyl bar. Hafta sonları salsa ve cumbia ile sabaha kadar dans. Kokteylleri güçlü, müziği yüksek.",
+    "coordinates": {"lat": 41.0234, "lng": 28.9755}
+  },
+  {
+    "id": "dogzstar",
+    "name": "Dogzstar",
+    "category": "bar",
+    "neighborhood": "Kadıköy",
+    "price_level": 2,
+    "tags": ["rock", "alternatif", "Anadolu yakası", "gece hayatı", "canlı müzik"],
+    "description": "Kadıköy'ün efsane rock barı. Duvarlar müzisyen fotoğraflarıyla kaplı, bira ucuz, müzik sert. İstanbul rock sahnesinin buluşma noktası.",
+    "coordinates": {"lat": 40.9897, "lng": 29.0284}
+  },
+  {
+    "id": "karga-bar",
+    "name": "Karga Bar",
+    "category": "bar",
+    "neighborhood": "Kadıköy",
+    "price_level": 1,
+    "tags": ["alternatif", "sanatsal", "ucuz", "bahçe", "Anadolu yakası"],
+    "description": "Kadıköy'de sanatçı ve aktivistlerin buluştuğu bar. Bahçesinde konserler ve söyleşiler düzenleniyor. Uygun fiyatlı, muhabbeti ağır basan bir mekan.",
+    "coordinates": {"lat": 40.9895, "lng": 29.0281}
+  },
+  {
+    "id": "sortie",
+    "name": "Sortie",
+    "category": "gece kulübü",
+    "neighborhood": "Kuruçeşme",
+    "price_level": 4,
+    "tags": ["Boğaz kıyısı", "lüks", "elektronik müzik", "gece hayatı", "yaz"],
+    "description": "Boğaz kıyısında yazın açık lüks gece kulübü. Elektronik müzik ve dans geceleriyle İstanbul gece hayatının sembollerinden. DJ performansları ve dans pisti için giriş ücreti yüksek.",
+    "coordinates": {"lat": 41.0618, "lng": 29.0394}
+  },
+  {
+    "id": "indigo",
+    "name": "Club Indigo",
+    "category": "gece kulübü",
+    "neighborhood": "Beyoğlu",
+    "price_level": 3,
+    "tags": ["elektronik müzik", "underground", "gece hayatı", "dans", "dj"],
+    "description": "Beyoğlu'nda İstanbul elektronik müzik ve techno sahnesinin merkezi. Gece kulübü olarak yurt dışından gelen DJ'lerin uğrak noktası. Dans pistinde geç başlar sabaha uzar, ciddi dans kültürü.",
+    "coordinates": {"lat": 41.0315, "lng": 28.9762}
+  },
+  {
+    "id": "under",
+    "name": "Under",
+    "category": "gece kulübü",
+    "neighborhood": "Karaköy",
+    "price_level": 3,
+    "tags": ["techno", "underground", "karanlık", "gece hayatı", "dans"],
+    "description": "Karaköy'de kaba beton duvarları ve sert ses sistemiyle underground techno gece kulübü. Dans pisti için Berlin tarzı karanlık atmosfer, elektronik müzik severler için adres. Sabah 5-6'ya kadar sürebilir.",
+    "coordinates": {"lat": 41.0231, "lng": 28.9749}
+  },
+  {
+    "id": "kasimpasa-demirspor",
+    "name": "Kasımpaşa Meyhane Sokağı",
+    "category": "meyhane",
+    "neighborhood": "Kasımpaşa",
+    "price_level": 2,
+    "tags": ["meyhane", "rakı balık", "yerel", "otantik", "canlı müzik"],
+    "description": "Kasımpaşa'da turiste değil yerele hizmet eden meyhane sırası. Fasıl müziğiyle rakı balık için sahici bir ortam. Turistik meyhanelerin yarı fiyatına iki katı keyif.",
+    "coordinates": {"lat": 41.0387, "lng": 28.9618}
+  },
+  {
+    "id": "nevizade",
+    "name": "Nevizade Meyhane Sokağı",
+    "category": "meyhane",
+    "neighborhood": "Beyoğlu",
+    "price_level": 2,
+    "tags": ["meyhane", "rakı", "sosyal", "kalabalık", "canlı"],
+    "description": "Beyoğlu'nun ünlü meyhane sokağı. Masalar dışarıya taşıyor, fasıl ekipleri sokakta dolaşıyor. Kalabalık ve gürültülü ama İstanbul'un en canlı akşamlarından biri.",
+    "coordinates": {"lat": 41.0332, "lng": 28.9771}
+  },
+  {
+    "id": "refik-meyhane",
+    "name": "Refik Restaurant",
+    "category": "meyhane",
+    "neighborhood": "Beyoğlu",
+    "price_level": 3,
+    "tags": ["geleneksel", "meyhane", "Rum mutfağı", "tarihi", "sakin"],
+    "description": "1954'ten bu yana Asmalımescit'te. İstanbul meyhaneciliğinin en köklü temsilcilerinden. Balık ve meze kalitesi tutarlı, gürültüsüz ortamı Nevizade'ye tercih edebilirsiniz.",
+    "coordinates": {"lat": 41.0326, "lng": 28.9772}
+  },
+  {
+    "id": "ismet-baba",
+    "name": "İsmet Baba",
+    "category": "meyhane",
+    "neighborhood": "Kuzguncuk",
+    "price_level": 2,
+    "tags": ["Boğaz kıyısı", "balık", "meyhane", "yerel", "sakin"],
+    "description": "Kuzguncuk'ta Boğaz kıyısında küçük, gösterişsiz bir balıkçı meyhane. Taze balık piyasaya göre değişir, rakı soğuk gelir. Turiste değil Boğaz köylüsüne hizmet eden.",
+    "coordinates": {"lat": 41.0415, "lng": 29.0498}
+  },
+  {
+    "id": "boncuk-meyhane",
+    "name": "Boncuk",
+    "category": "meyhane",
+    "neighborhood": "Beyoğlu",
+    "price_level": 2,
+    "tags": ["Rum meyhane", "geleneksel", "meze", "rakı", "tarihi"],
+    "description": "Nevizade'de geleneksel Rum meyhane geleneğini yaşatan mekan. Zeytinyağlı mezeler ve taze deniz ürünleriyle. Kalabalık ama kaliteden ödün vermiyor.",
+    "coordinates": {"lat": 41.0331, "lng": 28.9769}
+  },
+  {
+    "id": "bogazici-kosu-parkuru",
+    "name": "Boğaziçi Sahil Koşu Parkuru",
+    "category": "koşu_parkuru",
+    "neighborhood": "Beşiktaş",
+    "price_level": 1,
+    "tags": ["koşu", "Boğaz kıyısı", "manzara", "sabah", "açık hava"],
+    "description": "Beşiktaş'tan Kuruçeşme'ye uzanan sahil bandı boyunca düz koşu parkuru. Sabah saatlerinde koşucularla dolu, manzara eşsiz. Yaklaşık 5 km gidiş, Boğaz'a karşı koşmanın keyfi ayrı.",
+    "coordinates": {"lat": 41.0432, "lng": 29.0065}
+  },
+  {
+    "id": "camlica-tepesi-kosu",
+    "name": "Çamlıca Tepesi Parkuru",
+    "category": "koşu_parkuru",
+    "neighborhood": "Üsküdar",
+    "price_level": 1,
+    "tags": ["koşu", "tepe", "İstanbul manzarası", "zorlu", "doğa"],
+    "description": "İstanbul'un Anadolu yakasında en yüksek tepesinde yürüyüş ve koşu parkurları. Zirveye çıkınca tüm İstanbul panorama halinde. Eğimli yollar dayanıklılık için mükemmel.",
+    "coordinates": {"lat": 41.0251, "lng": 29.0712}
+  },
+  {
+    "id": "moda-kosu",
+    "name": "Moda Koşu Parkuru",
+    "category": "koşu_parkuru",
+    "neighborhood": "Moda",
+    "price_level": 1,
+    "tags": ["koşu", "sahil", "düz", "Anadolu yakası", "sosyal"],
+    "description": "Kadıköy Moda sahilinde hem yaya hem koşucu için tasarlanmış kıyı şeridi. Sabah erkenden bakımlı ve sakin, öğleden sonra kalabalık. Deniz havası eşliğinde tempolu koşu için ideal.",
+    "coordinates": {"lat": 40.9841, "lng": 29.0248}
+  },
+  {
+    "id": "sariyer-koruyolu",
+    "name": "Sarıyer Orman Parkuru",
+    "category": "koşu_parkuru",
+    "neighborhood": "Sarıyer",
+    "price_level": 1,
+    "tags": ["orman koşusu", "trail", "doğa", "zorlu", "hafta sonu"],
+    "description": "Sarıyer'den Belgrad Ormanı'na uzanan doğa patikası. Toprak zemin, çam ağaçları ve Boğaz'a açılan manzara noktaları. Trail koşusu sevenlere şehrin içinde orman deneyimi.",
+    "coordinates": {"lat": 41.1528, "lng": 29.0542}
+  },
+  {
+    "id": "kartal-sahili-kosu",
+    "name": "Kartal Sahil Parkuru",
+    "category": "koşu_parkuru",
+    "neighborhood": "Kartal",
+    "price_level": 1,
+    "tags": ["koşu", "sahil", "uzun parkur", "Anadolu yakası", "Adalar manzarası"],
+    "description": "Kartal'dan Maltepe'ye uzanan 10 km'lik düz sahil koşu bandı. Adalar'a karşı koşmak motivasyon kırıcı değil aksine güzelleştiriyor. Anadolu yakasının en uzun kıyı parkuru.",
+    "coordinates": {"lat": 40.9125, "lng": 29.1842}
+  },
+  {
+    "id": "galata-kulesi",
+    "name": "Galata Kulesi",
+    "category": "manzara",
+    "neighborhood": "Galata",
+    "price_level": 2,
+    "tags": ["tarihi", "manzara", "İstanbul simgesi", "turistik", "fotoğraf"],
+    "description": "14. yüzyıldan kalma Ceneviz kulesi. Tepesinden Haliç, Boğaz ve İstanbul siluetine panoramik bakış. Turistik ama görmeden geçilmez. Kuyruk uzun olabilir, sabah erken daha sakin.",
+    "coordinates": {"lat": 41.0256, "lng": 28.9741}
+  },
+  {
+    "id": "pierre-loti-tepesi",
+    "name": "Pierre Loti Tepesi",
+    "category": "manzara",
+    "neighborhood": "Eyüpsultan",
+    "price_level": 1,
+    "tags": ["Haliç manzarası", "sakin", "tarihi", "çay bahçesi", "gün batımı"],
+    "description": "Eyüp'te Fransız yazar Pierre Loti'nin adıyla anılan tepe. Haliç'e bakan çay bahçesi, teleferikle veya yürüyerek çıkılıyor. Turistik olmayan sakin manzara noktası.",
+    "coordinates": {"lat": 41.0528, "lng": 28.9342}
+  },
+  {
+    "id": "rumeli-hisari",
+    "name": "Rumeli Hisarı",
+    "category": "manzara",
+    "neighborhood": "Rumeli Hisarı",
+    "price_level": 1,
+    "tags": ["Boğaz manzarası", "tarihi", "kale", "fotoğraf", "gün batımı"],
+    "description": "Boğaz'ın en dar noktasında Fatih Sultan Mehmet'in inşa ettirdiği kale. İçinde dolaşmak ücretsiz, manzara her açıdan müthiş. Özellikle gün batımında altın rengi boğaz görüntüsü.",
+    "coordinates": {"lat": 41.0852, "lng": 29.0563}
+  },
+  {
+    "id": "camlica-camii-manzara",
+    "name": "Çamlıca Camii Seyir Terası",
+    "category": "manzara",
+    "neighborhood": "Üsküdar",
+    "price_level": 1,
+    "tags": ["İstanbul manzarası", "açık hava", "modern", "Anadolu yakası", "panoramik"],
+    "description": "Türkiye'nin en büyük caminin avlusundaki panoramik seyir terası. Tüm İstanbul, iki Boğaz köprüsü ve Marmara denizi tek çerçevede. Gün batımında fotoğraf çekmek için mükemmel manzara noktası, giriş ücretsiz.",
+    "coordinates": {"lat": 41.0275, "lng": 29.0682}
+  },
+  {
+    "id": "suada-kulup",
+    "name": "Suada Kulübü",
+    "category": "bar",
+    "neighborhood": "Galatasaray Adası",
+    "price_level": 3,
+    "tags": ["ada", "Boğaz ortası", "yaz", "havuz", "sosyal"],
+    "description": "Boğaz'ın ortasında küçük bir adada kulüp. Yazın havuz başında Boğaz manzarası, akşam barında kokteyl. Sandalla gidiliyor, İstanbul'un en alışılmadık mekanlarından.",
+    "coordinates": {"lat": 41.0538, "lng": 29.0285}
+  },
+  {
+    "id": "pandeli",
+    "name": "Pandeli",
+    "category": "restoran",
+    "neighborhood": "Eminönü",
+    "price_level": 3,
+    "tags": ["tarihi", "Osmanlı mutfağı", "Mısır Çarşısı", "öğle yemeği", "geleneksel"],
+    "description": "1901'den bu yana Mısır Çarşısı'nın üzerinde tarihi Osmanlı mutfağını yaşatan efsane restoran. Tarihi çini kaplı duvarlar ve geleneksel kültür atmosferiyle. Tarihi İstanbul gezisinin öğle yemeği durağı.",
+    "coordinates": {"lat": 41.0168, "lng": 28.9703}
+  },
+  {
+    "id": "kadinlar-pazari",
+    "name": "Kadınlar Pazarı",
+    "category": "restoran",
+    "neighborhood": "Fatih",
+    "price_level": 1,
+    "tags": ["pazar", "yerel", "ucuz", "kahvaltı", "otantik"],
+    "description": "Fatih'te hafta içi sabahları kurulan ve çevredeki lokantaların şekillendiği tarihi pazar. Organik köy ürünleri, taze baharatlar ve nefis Türk kahvaltısı. Turistin bilmediği gerçek İstanbul.",
+    "coordinates": {"lat": 41.0189, "lng": 28.9498}
+  },
+  {
+    "id": "halaskargazi-muhallebici",
+    "name": "Saray Muhallebicisi",
+    "category": "kafe",
+    "neighborhood": "Nişantaşı",
+    "price_level": 1,
+    "tags": ["tatlı", "geleneksel", "nostaljik", "kazandibi", "sütlaç"],
+    "description": "1930'lardan bu yana İstanbul tatlı kültürünün sembolü. Kazandibi, sütlaç ve trileçe için adres burası. Süslü değil, nostaljik ve lezzetli.",
+    "coordinates": {"lat": 41.0484, "lng": 28.9921}
+  },
+  {
+    "id": "ortakoy-sahili",
+    "name": "Ortaköy Sahili",
+    "category": "manzara",
+    "neighborhood": "Ortaköy",
+    "price_level": 1,
+    "tags": ["Boğaz köprüsü", "manzara", "kalabalık", "kumpir", "hafta sonu"],
+    "description": "Boğaz köprüsünün hemen altında tarihi cami ve sahil. Gün batımında köprü ve Boğaz manzarası fotoğraf için ikonik kare. Hafta sonları kumpir kokusuyla dolup taşar.",
+    "coordinates": {"lat": 41.0474, "lng": 29.0282}
+  },
+  {
+    "id": "kanyon-alisveris",
+    "name": "Kanyon AVM Açık Bölümü",
+    "category": "park",
+    "neighborhood": "Levent",
+    "price_level": 1,
+    "tags": ["mimari", "açık hava", "modern", "yürüyüş", "fotojenik"],
+    "description": "Levent'te Jerde Partnership'in tasarladığı spiral mimarlı AVM'nin açık avlusu. Alışveriş değil mimari için girilir. Öğle aralarında çalışan kesimden sessiz bir mola yeri.",
+    "coordinates": {"lat": 41.0758, "lng": 29.0112}
+  }
+]
