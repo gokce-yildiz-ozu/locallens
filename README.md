@@ -1,4 +1,5 @@
 # LocalLens
+![Demo](assets/demo.gif)
 
 İstanbul için embedding tabanlı semantik mekan öneri sistemi.
 
